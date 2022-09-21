@@ -12,16 +12,14 @@ library(modelr); packageVersion("modelr")
 source("./R/plot_bar2.R")
 
 # LOAD PS OBJECTS ####
-
 ps <- readRDS("./output/partially_cleaned_ps_object.RDS")
 ps_silva <- readRDS("output/partially_cleaned_ps_silva_object.RDS")
 
-tax_table(ps_silva)[,1]
 
 # remove NA kingdoms
-ps <- ps %>% 
+ps <- ps %>%
   subset_taxa(!is.na(Kingdom))
-ps_silva <- ps_silva %>% 
+ps_silva <- ps_silva %>%
   subset_taxa(!is.na(Kingdom))
 
 # add grouping variable
@@ -36,10 +34,10 @@ ps_silva@sam_data$group <- newvar
 # TRY BLAST INSTEAD?
 
 # RELABUND
-ps_ra <- ps %>% 
+ps_ra <- ps %>%
   transform_sample_counts(function(x){x/sum(x)})
 
-ps_silva_ra <- ps_silva %>% 
+ps_silva_ra <- ps_silva %>%
   transform_sample_counts(function(x){x/sum(x)})
 
 # taxa comparison
@@ -61,12 +59,12 @@ p1 <- plot_bar2(ps_ra,fill="Family")
 p2 <- plot_bar2(ps_silva_ra,fill="Family")
 
 # alpha plots
-p1 <- ps %>% 
+p1 <- ps %>%
   plot_richness(x="group",measures = "Shannon") +
   coord_cartesian(ylim=c(0,2.5)) +
   ggtitle("maarjam database") +
   facet_wrap(~weevil_nw_no_weevil_w_weevil_present,scales = "free_x")
-p2 <- ps_silva %>% 
+p2 <- ps_silva %>%
   plot_richness(x="group",measures = "Shannon") +
   coord_cartesian(ylim=c(0,2.5)) +
   ggtitle("maarjam + SILVA outgroups") +
@@ -79,9 +77,9 @@ paste(ps_silva@tax_table[,5],
 
 plot_bar2(ps_silva_ra,fill="Family",x="group")
 # merge samples by treatment group
-psm <- merge_samples(ps,"group") %>% 
-  transform_sample_counts(function(x){x/sum(x)}) 
-psm_silva <- merge_samples(ps_silva,"group") %>% 
-  transform_sample_counts(function(x){x/sum(x)}) 
+psm <- merge_samples(ps,"group") %>%
+  transform_sample_counts(function(x){x/sum(x)})
+psm_silva <- merge_samples(ps_silva,"group") %>%
+  transform_sample_counts(function(x){x/sum(x)})
 
 phyloseq::plot_richness(ps,measures = "Shannon")

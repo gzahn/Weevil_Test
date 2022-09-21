@@ -1,0 +1,22 @@
+ASV_1	gi|961063169|gb|KT901827.1|	Eukaryota	Cryobiotus klebelsbergi	tardigrades	99.629	0.0	539	985	0
+ASV_2	gi|1430413344|gb|MH629592.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	548	1013	0
+ASV_3	gi|166084271|gb|EF024794.1|	Eukaryota	uncultured Thaumatomonadida	eukaryotes	92.586	0.0	553	787	7
+ASV_4	gi|1608697222|gb|MH052537.1|	Eukaryota	uncultured Glomeromycotina	fungi	100.000	0.0	542	1002	0
+ASV_5	gi|169823304|gb|EU266951.1|	Eukaryota	Diphascon sp. Diph_07_008	tardigrades	99.628	0.0	538	983	0
+ASV_6	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.815	0.0	541	994	0
+ASV_7	gi|1333994350|gb|MG829396.1|	Eukaryota	Glomeromycotina sp.	fungi	99.635	0.0	548	1002	0
+ASV_8	gi|109391074|emb|AJ496372.1|	Eukaryota	Otiorhynchus ovatus	beetles	99.656	0.0	581	1062	0
+ASV_9	gi|1333994411|gb|MG829457.1|	Eukaryota	Glomeromycotina sp.	fungi	100.000	0.0	542	1002	0
+ASV_10	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.261	0.0	541	977	0
+ASV_11	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.630	0.0	541	989	0
+ASV_12	gi|316990134|gb|GU901873.1|	Eukaryota	Enchytraeus christenseni	segmented worms	99.628	0.0	538	983	0
+ASV_13	gi|459989403|gb|KC708367.1|	Eukaryota	uncultured Glomeromycotina	fungi	99.815	0.0	540	992	0
+ASV_14	gi|166083764|gb|EF024287.1|	Eukaryota	Cercomonadida environmental sample	cercozoans	91.956	0.0	547	765	1
+ASV_15	gi|333774609|emb|FN869795.1|	Eukaryota	uncultured Glomus	glomeromycetes	97.632	0.0	549	939	3
+ASV_16	gi|1430413421|gb|MH629669.1|	Eukaryota	uncultured Glomus	glomeromycetes	99.083	0.0	545	979	0
+ASV_17	gi|1430413427|gb|MH629675.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	99.818	0.0	548	1007	0
+ASV_18	gi|375005523|gb|JN619345.1|	Eukaryota	Sepedophilus bipunctatus	beetles	99.658	0.0	585	1070	0
+ASV_19	gi|162414602|gb|EF487589.1|	Eukaryota	Aegialia sp. BMNH 703536	beetles	99.657	0.0	583	1066	0
+ASV_20	gi|375005582|gb|JN969176.1|	Eukaryota	Serica intermixta	beetles	99.659	0.0	587	1074	0
+ASV_21	gi|1855018891|gb|MT610929.1|	Eukaryota	Cirsium vulgare	eudicots	99.257	0.0	538	972	0
+ASV_22	gi|1430413421|gb|MH629669.1|	Eukaryota	uncultured Glomus	glomeromycetes	99.083	0.0	545	979	0

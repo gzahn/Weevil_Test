@@ -1,0 +1,37 @@
+ASV_1	gi|961063169|gb|KT901827.1|	Eukaryota	Cryobiotus klebelsbergi	tardigrades	99.629	0.0	539	985	0
+ASV_2	gi|1430413427|gb|MH629675.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	548	1013	0
+ASV_3	gi|1608696887|gb|MH052208.1|	Eukaryota	uncultured Glomeromycotina	fungi	100.000	0.0	542	1002	0
+ASV_4	gi|1430412918|gb|MH629166.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	549	1014	0
+ASV_5	gi|1430413344|gb|MH629592.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	548	1013	0
+ASV_6	gi|166084271|gb|EF024794.1|	Eukaryota	uncultured Thaumatomonadida	eukaryotes	92.586	0.0	553	787	7
+ASV_7	gi|388565110|gb|JN981028.1|	Eukaryota	Folsomina onychiurina	springtails	99.629	0.0	539	985	0
+ASV_8	gi|169823304|gb|EU266951.1|	Eukaryota	Diphascon sp. Diph_07_008	tardigrades	99.628	0.0	538	983	0
+ASV_9	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.815	0.0	541	994	0
+ASV_10	gi|1333994401|gb|MG829447.1|	Eukaryota	Glomeromycotina sp.	fungi	100.000	0.0	549	1014	0
+ASV_11	gi|109391074|emb|AJ496372.1|	Eukaryota	Otiorhynchus ovatus	beetles	99.656	0.0	581	1062	0
+ASV_12	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.261	0.0	541	977	0
+ASV_13	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.630	0.0	541	989	0
+ASV_14	gi|388565120|gb|JN981038.1|	Eukaryota	Parisotoma notabilis	springtails	99.443	0.0	539	979	0
+ASV_15	gi|1697952514|ref|XR_003884956.1|	Eukaryota	Formica exsecta	ants	99.657	0.0	583	1066	0
+ASV_16	gi|316990134|gb|GU901873.1|	Eukaryota	Enchytraeus christenseni	segmented worms	99.628	0.0	538	983	0
+ASV_17	gi|459989403|gb|KC708367.1|	Eukaryota	uncultured Glomeromycotina	fungi	99.815	0.0	540	992	0
+ASV_18	gi|1430413427|gb|MH629675.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	99.818	0.0	548	1007	0
+ASV_19	gi|162414602|gb|EF487589.1|	Eukaryota	Aegialia sp. BMNH 703536	beetles	99.657	0.0	583	1066	0
+ASV_20	gi|375005582|gb|JN969176.1|	Eukaryota	Serica intermixta	beetles	99.659	0.0	587	1074	0
+ASV_21	gi|166084271|gb|EF024794.1|	Eukaryota	uncultured Thaumatomonadida	eukaryotes	92.767	0.0	553	793	7
+ASV_22	gi|219524878|gb|EU709241.1|	Eukaryota	uncultured Cercozoa	cercozoans	99.427	0.0	524	950	1
+ASV_23	gi|1855018891|gb|MT610929.1|	Eukaryota	Cirsium vulgare	eudicots	99.257	0.0	538	972	0
+ASV_24	gi|219524877|gb|EU709240.1|	Eukaryota	Cercozoa sp. Panama49	cercozoans	95.430	0.0	547	870	2
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	99.441	0.0	537	976	0
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	97.765	0.0	537	926	0
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	93.974	0.0	531	802	1
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.737	0.0	537	776	0
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.551	0.0	537	771	0
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.551	0.0	537	769	1
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.365	0.0	537	763	1
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	89.944	0.0	537	682	12
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.899	2.09e-134	338	492	0
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	89.458	4.66e-111	332	414	6
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	93.200	1.32e-96	250	366	1
+ASV_25	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	93.802	1.71e-95	242	363	1
+ASV_26	gi|1430413421|gb|MH629669.1|	Eukaryota	uncultured Glomus	glomeromycetes	99.083	0.0	545	979	0

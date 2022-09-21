@@ -1,0 +1,206 @@
+ASV_1	gi|1020269082|gb|KT006880.1|	Eukaryota	Ptenothrix sp. DY-2016	springtails	98.145	0.0	539	941	0
+ASV_2	gi|1654334654|gb|MK946371.1|	Eukaryota	uncultured soil eukaryote	eukaryotes	98.524	0.0	542	953	3
+ASV_3	gi|961063169|gb|KT901827.1|	Eukaryota	Cryobiotus klebelsbergi	tardigrades	99.629	0.0	539	985	0
+ASV_4	gi|1799126736|gb|MN241881.1|	Eukaryota	Cocceupodes mollicellus	mites & ticks	99.820	0.0	555	1020	0
+ASV_5	gi|134022014|gb|EF023364.1|	Eukaryota	Ricinulei environmental sample	hooded tickspiders	99.439	0.0	535	972	0
+ASV_6	gi|1591436844|gb|MK630367.1|	Eukaryota	Sellnickochthonius cricoides	mites & ticks	99.829	0.0	586	1077	0
+ASV_7	gi|1654334654|gb|MK946371.1|	Eukaryota	uncultured soil eukaryote	eukaryotes	98.893	0.0	542	966	2
+ASV_8	gi|1430413427|gb|MH629675.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	548	1013	0
+ASV_9	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	95.756	0.0	542	874	0
+ASV_10	gi|154818268|gb|EU040133.1|	Eukaryota	Prismatolaimus intermedius	nematodes	99.813	0.0	536	985	0
+ASV_11	gi|1799126738|gb|MN241883.1|	Eukaryota	Filieupodes sp. FP118	mites & ticks	99.816	0.0	544	1000	0
+ASV_12	gi|1608696887|gb|MH052208.1|	Eukaryota	uncultured Glomeromycotina	fungi	100.000	0.0	542	1002	0
+ASV_13	gi|1799126736|gb|MN241881.1|	Eukaryota	Cocceupodes mollicellus	mites & ticks	99.459	0.0	555	1009	0
+ASV_14	gi|1020269082|gb|KT006880.1|	Eukaryota	Ptenothrix sp. DY-2016	springtails	99.072	0.0	539	968	0
+ASV_15	gi|1430412918|gb|MH629166.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	549	1014	0
+ASV_16	gi|359393264|gb|JN252475.1|	Eukaryota	Pinus environmental sample	seed plants	99.814	0.0	539	990	0
+ASV_17	gi|1430413344|gb|MH629592.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	548	1013	0
+ASV_18	gi|226434423|dbj|AB361452.1|	Eukaryota	Clarkus papillatus	nematodes	99.627	0.0	536	977	2
+ASV_19	gi|166084271|gb|EF024794.1|	Eukaryota	uncultured Thaumatomonadida	eukaryotes	92.586	0.0	553	787	7
+ASV_20	gi|388565110|gb|JN981028.1|	Eukaryota	Folsomina onychiurina	springtails	99.629	0.0	539	985	0
+ASV_21	gi|1608697222|gb|MH052537.1|	Eukaryota	uncultured Glomeromycotina	fungi	100.000	0.0	542	1002	0
+ASV_22	gi|54037593|gb|AY749541.1|	Eukaryota	uncultured eukaryote	eukaryotes	99.821	0.0	560	1029	0
+ASV_23	gi|1020269082|gb|KT006880.1|	Eukaryota	Ptenothrix sp. DY-2016	springtails	97.959	0.0	539	935	0
+ASV_24	gi|169823304|gb|EU266951.1|	Eukaryota	Diphascon sp. Diph_07_008	tardigrades	99.628	0.0	538	983	0
+ASV_25	gi|190133939|gb|EU798714.1|	Eukaryota	uncultured eukaryote	eukaryotes	95.660	0.0	530	843	9
+ASV_26	gi|562786477|gb|KC510276.1|	Eukaryota	Paraconiothyrium sp. MC-2013	ascomycetes	99.814	0.0	538	989	0
+ASV_27	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.815	0.0	541	994	0
+ASV_28	gi|1334463134|gb|MG833237.1|	Eukaryota	Adropion scoticum	tardigrades	97.037	0.0	540	909	0
+ASV_29	gi|1333994401|gb|MG829447.1|	Eukaryota	Glomeromycotina sp.	fungi	100.000	0.0	549	1014	0
+ASV_30	gi|1333994350|gb|MG829396.1|	Eukaryota	Glomeromycotina sp.	fungi	99.635	0.0	548	1002	0
+ASV_31	gi|1430412745|gb|MH628993.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	100.000	0.0	541	1000	0
+ASV_32	gi|1546192282|gb|MK347844.1|	Eukaryota	Pseudocoleophoma bauhiniae	ascomycetes	99.628	0.0	538	983	0
+ASV_33	gi|545911040|gb|KF290682.1|	Eukaryota	uncultured Glomeromycotina	fungi	99.817	0.0	546	1003	0
+ASV_34	gi|1020269082|gb|KT006880.1|	Eukaryota	Ptenothrix sp. DY-2016	springtails	97.959	0.0	539	935	0
+ASV_35	gi|1020269082|gb|KT006880.1|	Eukaryota	Ptenothrix sp. DY-2016	springtails	97.959	0.0	539	935	0
+ASV_36	gi|1430413292|gb|MH629540.1|	Eukaryota	uncultured Paraglomus	glomeromycetes	100.000	0.0	539	996	0
+ASV_37	gi|1608697242|gb|MH052556.1|	Eukaryota	uncultured Glomeromycotina	fungi	100.000	0.0	542	1002	0
+ASV_38	gi|109391074|emb|AJ496372.1|	Eukaryota	Otiorhynchus ovatus	beetles	99.656	0.0	581	1062	0
+ASV_39	gi|1430412554|gb|MH628802.1|	Eukaryota	uncultured Diversispora	glomeromycetes	100.000	0.0	544	1005	0
+ASV_40	gi|2160613664|gb|OL739463.1|	Eukaryota	Centroplasthelida sp. DGZ-2021a	eukaryotes	98.925	0.0	558	996	1
+ASV_41	gi|1861748403|ref|NG_070109.1|	Eukaryota	Kalmusia italica	ascomycetes	99.814	0.0	538	989	0
+ASV_42	gi|661349764|gb|KJ636367.1|	Eukaryota	Prismatolaimus cf. intermedius 2 JH-2014	nematodes	99.254	0.0	536	968	0
+ASV_43	gi|134022248|gb|EF023598.1|	Eukaryota	Phaseoleae environmental sample	eudicots	99.441	0.0	537	974	1
+ASV_44	gi|1430412822|gb|MH629070.1|	Eukaryota	uncultured Diversispora	glomeromycetes	99.816	0.0	544	1000	0
+ASV_45	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	95.387	0.0	542	863	0
+ASV_46	gi|134022522|gb|EF023872.1|	Eukaryota	uncultured Sarcosomataceae	ascomycetes	99.821	0.0	560	1029	0
+ASV_47	gi|985769343|gb|KU178912.1|	Eukaryota	Raphidiophrys heterophryoidea	eukaryotes	93.560	0.0	559	826	7
+ASV_48	gi|55469134|gb|AY749607.1|	Eukaryota	Pterocystis sp. Oxford2	eukaryotes	91.952	0.0	584	795	26
+ASV_49	gi|375582553|gb|JQ245081.1|	Eukaryota	Centroheliozoa sp. ATCC 50535	eukaryotes	98.168	0.0	546	953	0
+ASV_50	gi|1917866047|gb|MW139937.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.625	0.0	563	928	8
+ASV_51	gi|166083764|gb|EF024287.1|	Eukaryota	Cercomonadida environmental sample	cercozoans	93.419	0.0	547	809	1
+ASV_52	gi|1333994411|gb|MG829457.1|	Eukaryota	Glomeromycotina sp.	fungi	100.000	0.0	542	1002	0
+ASV_53	gi|1917866066|gb|MW139957.1|	Eukaryota	uncultured eukaryote	eukaryotes	98.387	0.0	558	979	1
+ASV_54	gi|52082733|gb|AY596362.1|	Eukaryota	Hypogastrura sp. YXL-2004	springtails	97.963	0.0	540	937	0
+ASV_55	gi|1430412822|gb|MH629070.1|	Eukaryota	uncultured Diversispora	glomeromycetes	99.632	0.0	544	994	0
+ASV_56	gi|1430412822|gb|MH629070.1|	Eukaryota	uncultured Diversispora	glomeromycetes	100.000	0.0	544	1005	0
+ASV_57	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.076	0.0	541	972	0
+ASV_58	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.261	0.0	541	977	0
+ASV_59	gi|375582553|gb|JQ245081.1|	Eukaryota	Centroheliozoa sp. ATCC 50535	eukaryotes	98.535	0.0	546	965	0
+ASV_60	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	97.417	0.0	542	922	1
+ASV_61	gi|1866582761|gb|MT730936.1|	Eukaryota	Rhizophlyctis sp.	chytrids	95.733	0.0	539	869	0
+ASV_62	gi|1430412550|gb|MH628798.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	100.000	0.0	549	1014	0
+ASV_63	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	95.572	0.0	542	867	1
+ASV_64	gi|1333994401|gb|MG829447.1|	Eukaryota	Glomeromycotina sp.	fungi	99.818	0.0	549	1009	0
+ASV_65	gi|60687316|gb|AY821943.1|	Eukaryota	uncultured Centroheliozoa	eukaryotes	94.690	0.0	452	701	1
+ASV_65	gi|60687316|gb|AY821943.1|	Eukaryota	uncultured Centroheliozoa	eukaryotes	96.591	7.44e-30	88	145	2
+ASV_66	gi|54037537|gb|AY749485.1|	Eukaryota	uncultured eukaryote	eukaryotes	98.249	0.0	571	994	6
+ASV_67	gi|1350385332|gb|MG993565.1|	Eukaryota	Prionchulus punctatus	nematodes	98.694	0.0	536	952	0
+ASV_68	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	99.630	0.0	541	989	0
+ASV_69	gi|1430412745|gb|MH628993.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	99.815	0.0	541	994	0
+ASV_70	gi|1799126729|gb|MN241874.1|	Eukaryota	Speleorchestes sp. FP413	mites & ticks	99.630	0.0	540	987	0
+ASV_71	gi|388565120|gb|JN981038.1|	Eukaryota	Parisotoma notabilis	springtails	99.443	0.0	539	979	0
+ASV_72	gi|1430413292|gb|MH629540.1|	Eukaryota	uncultured Paraglomus	glomeromycetes	99.814	0.0	539	990	0
+ASV_73	gi|1697952514|ref|XR_003884956.1|	Eukaryota	Formica exsecta	ants	99.657	0.0	583	1066	0
+ASV_74	gi|2086101667|gb|MZ923228.1|	Eukaryota	uncultured Cryptomycota	fungi	97.765	0.0	537	926	0
+ASV_75	gi|593023930|gb|KF990487.1|	Eukaryota	Choanocystis symna	eukaryotes	92.721	0.0	577	821	13
+ASV_76	gi|54037576|gb|AY749524.1|	Eukaryota	uncultured eukaryote	eukaryotes	97.880	0.0	566	976	3
+ASV_77	gi|54037540|gb|AY749488.1|	Eukaryota	uncultured eukaryote	eukaryotes	93.299	0.0	582	845	16
+ASV_78	gi|375582553|gb|JQ245081.1|	Eukaryota	Centroheliozoa sp. ATCC 50535	eukaryotes	98.352	0.0	546	957	2
+ASV_79	gi|388565111|gb|JN981029.1|	Eukaryota	Weberacantha beckeri	springtails	96.858	0.0	541	904	1
+ASV_80	gi|134022248|gb|EF023598.1|	Eukaryota	Phaseoleae environmental sample	eudicots	99.628	0.0	537	979	1
+ASV_81	gi|316990134|gb|GU901873.1|	Eukaryota	Enchytraeus christenseni	segmented worms	99.628	0.0	538	983	0
+ASV_82	gi|388565115|gb|JN981033.1|	Eukaryota	Desoria tigrina	springtails	98.887	0.0	539	963	0
+ASV_83	gi|1341128739|gb|MG920177.1|	Eukaryota	Cochlonema odontosperma	fungi	96.507	0.0	544	898	1
+ASV_84	gi|166084456|gb|EF024979.1|	Eukaryota	Sminthuridae environmental sample	springtails	94.633	0.0	559	848	20
+ASV_85	gi|1799126736|gb|MN241881.1|	Eukaryota	Cocceupodes mollicellus	mites & ticks	99.099	0.0	555	996	1
+ASV_86	gi|1178901626|gb|KY934456.1|	Eukaryota	Stylopage araea	fungi	97.263	0.0	548	924	5
+ASV_87	gi|1102959792|gb|KY173982.1|	Eukaryota	uncultured Acaulospora	glomeromycetes	98.706	0.0	541	961	0
+ASV_88	gi|459989403|gb|KC708367.1|	Eukaryota	uncultured Glomeromycotina	fungi	99.815	0.0	540	992	0
+ASV_89	gi|166083764|gb|EF024287.1|	Eukaryota	Cercomonadida environmental sample	cercozoans	91.956	0.0	547	765	1
+ASV_90	gi|1430412822|gb|MH629070.1|	Eukaryota	uncultured Diversispora	glomeromycetes	99.632	0.0	544	994	0
+ASV_91	gi|52082733|gb|AY596362.1|	Eukaryota	Hypogastrura sp. YXL-2004	springtails	94.259	0.0	540	824	1
+ASV_92	gi|1591436843|gb|MK630366.1|	Eukaryota	Neoliochthonius piluliferus	mites & ticks	99.830	0.0	587	1079	0
+ASV_93	gi|1430412854|gb|MH629102.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	99.261	0.0	541	977	0
+ASV_94	gi|1430412482|gb|MH628730.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	99.630	0.0	540	987	0
+ASV_95	gi|333774609|emb|FN869795.1|	Eukaryota	uncultured Glomus	glomeromycetes	97.632	0.0	549	939	3
+ASV_96	gi|1430413309|gb|MH629557.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	99.445	0.0	541	983	0
+ASV_97	gi|1430413421|gb|MH629669.1|	Eukaryota	uncultured Glomus	glomeromycetes	99.083	0.0	545	979	0
+ASV_98	gi|1430412745|gb|MH628993.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	99.815	0.0	541	994	0
+ASV_99	gi|1846293039|gb|MT531253.1|	Eukaryota	uncultured eukaryote	eukaryotes	97.090	9.17e-178	378	636	1
+ASV_100	gi|1430413427|gb|MH629675.1|	Eukaryota	uncultured Claroideoglomus	glomeromycetes	99.818	0.0	548	1007	0
+ASV_101	gi|2474|emb|Z14005.1|	Eukaryota	Acaulospora rugosa	glomeromycetes	99.632	0.0	544	994	0
+ASV_102	gi|375005523|gb|JN619345.1|	Eukaryota	Sepedophilus bipunctatus	beetles	99.658	0.0	585	1070	0
+ASV_103	gi|2086101848|gb|MZ923409.1|	Eukaryota	uncultured Cryptomycota	fungi	98.318	0.0	535	939	0
+ASV_104	gi|293634433|gb|GU569631.1|	Eukaryota	Pogonatum urnigerum	mosses	99.630	0.0	540	987	0
+ASV_105	gi|162414602|gb|EF487589.1|	Eukaryota	Aegialia sp. BMNH 703536	beetles	99.657	0.0	583	1066	0
+ASV_106	gi|1917866047|gb|MW139937.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.625	0.0	563	928	7
+ASV_107	gi|222089851|gb|FJ592412.1|	Eukaryota	uncultured eukaryote	eukaryotes	98.148	0.0	540	942	0
+ASV_108	gi|1088721541|emb|LT600795.1|	Eukaryota	uncultured Rhizophagus	glomeromycetes	99.815	0.0	542	996	0
+ASV_109	gi|1446209046|gb|MH742320.1|	Eukaryota	Dictyocheirospora metroxylonis	ascomycetes	99.814	0.0	538	989	0
+ASV_110	gi|742523365|gb|KM870736.1|	Eukaryota	uncultured eukaryote	eukaryotes	86.861	7.13e-164	548	590	26
+ASV_111	gi|166083764|gb|EF024287.1|	Eukaryota	Cercomonadida environmental sample	cercozoans	99.634	0.0	547	1000	0
+ASV_112	gi|1430413409|gb|MH629657.1|	Eukaryota	uncultured Archaeospora	glomeromycetes	99.815	0.0	540	992	0
+ASV_113	gi|375005582|gb|JN969176.1|	Eukaryota	Serica intermixta	beetles	99.659	0.0	587	1074	0
+ASV_114	gi|1391290813|gb|MH198176.1|	Eukaryota	Oppiella nova	mites & ticks	99.629	0.0	539	985	0
+ASV_115	gi|425922571|gb|JQ801606.1|	Eukaryota	Tipulidae sp. 6 BE-2012	flies	99.657	0.0	583	1066	0
+ASV_116	gi|54037591|gb|AY749539.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.476	0.0	454	739	12
+ASV_116	gi|54037591|gb|AY749539.1|	Eukaryota	uncultured eukaryote	eukaryotes	97.753	1.24e-32	89	154	0
+ASV_117	gi|134022014|gb|EF023364.1|	Eukaryota	Ricinulei environmental sample	hooded tickspiders	93.458	0.0	535	771	25
+ASV_118	gi|1341128743|gb|MG920181.1|	Eukaryota	Zoopage sp.	fungi	95.108	0.0	511	802	4
+ASV_119	gi|1799126734|gb|MN241879.1|	Eukaryota	Linopodes sp. FP561	mites & ticks	86.701	4.56e-171	579	614	32
+ASV_120	gi|1917866047|gb|MW139937.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.448	0.0	563	922	7
+ASV_121	gi|166084271|gb|EF024794.1|	Eukaryota	uncultured Thaumatomonadida	eukaryotes	92.767	0.0	553	793	7
+ASV_122	gi|661349763|gb|KJ636366.1|	Eukaryota	Rhabdolaimus terrestris	nematodes	99.442	0.0	538	979	0
+ASV_123	gi|166083764|gb|EF024287.1|	Eukaryota	Cercomonadida environmental sample	cercozoans	93.443	0.0	549	809	5
+ASV_124	gi|461489421|gb|JX144131.1|	Eukaryota	uncultured Glomus	glomeromycetes	95.298	0.0	553	874	3
+ASV_125	gi|311701409|gb|GU205246.1|	Eukaryota	Paramassariosphaeria anthostomoides	ascomycetes	99.071	0.0	538	965	1
+ASV_126	gi|1375517796|gb|MH174486.1|	Eukaryota	Mucoromycotina sp.	fungi	87.523	2.01e-174	553	625	15
+ASV_127	gi|219524878|gb|EU709241.1|	Eukaryota	uncultured Cercozoa	cercozoans	99.427	0.0	524	950	1
+ASV_128	gi|1845957821|gb|MT522645.1|	Eukaryota	Encentrum semiplicatum	rotifers	98.155	0.0	542	946	0
+ASV_129	gi|298162231|gb|HM070366.1|	Eukaryota	Agistemus sp. AP-2010	mites & ticks	99.635	0.0	548	1002	0
+ASV_130	gi|134022014|gb|EF023364.1|	Eukaryota	Ricinulei environmental sample	hooded tickspiders	94.981	0.0	538	839	5
+ASV_131	gi|2160613664|gb|OL739463.1|	Eukaryota	Centroplasthelida sp. DGZ-2021a	eukaryotes	98.923	0.0	557	994	1
+ASV_132	gi|742523365|gb|KM870736.1|	Eukaryota	uncultured eukaryote	eukaryotes	86.496	1.54e-160	548	579	26
+ASV_133	gi|1511361385|emb|LS997531.1|	Eukaryota	uncultured Ambispora	glomeromycetes	96.931	0.0	554	928	2
+ASV_134	gi|973776544|gb|KT964847.1|	Eukaryota	Mortierella calciphila	fungi	98.318	0.0	535	939	0
+ASV_135	gi|1608697007|gb|MH052328.1|	Eukaryota	uncultured Glomeromycotina	fungi	100.000	0.0	544	1005	0
+ASV_136	gi|54037556|gb|AY749504.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.099	0.0	564	911	9
+ASV_137	gi|501417098|gb|JX481312.1|	Eukaryota	Trichia alpina	plasmodial slime molds	81.894	2.46e-74	359	292	11
+ASV_137	gi|501417098|gb|JX481312.1|	Eukaryota	Trichia alpina	plasmodial slime molds	95.890	4.42e-22	73	119	0
+ASV_138	gi|134021791|gb|EF023141.1|	Eukaryota	Squillidae environmental sample	crustaceans	96.923	3.57e-116	260	431	6
+ASV_138	gi|134021791|gb|EF023141.1|	Eukaryota	Squillidae environmental sample	crustaceans	95.833	2.29e-68	168	272	0
+ASV_139	gi|461489421|gb|JX144131.1|	Eukaryota	uncultured Glomus	glomeromycetes	95.118	0.0	553	869	3
+ASV_140	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	97.970	0.0	542	941	0
+ASV_141	gi|375582553|gb|JQ245081.1|	Eukaryota	Centroheliozoa sp. ATCC 50535	eukaryotes	99.086	0.0	547	981	1
+ASV_142	gi|1178901626|gb|KY934456.1|	Eukaryota	Stylopage araea	fungi	96.709	0.0	547	907	3
+ASV_143	gi|2160613664|gb|OL739463.1|	Eukaryota	Centroplasthelida sp. DGZ-2021a	eukaryotes	98.208	0.0	558	974	1
+ASV_144	gi|291419524|gb|GU561840.1|	Eukaryota	Capnodiales sp. CBS 101364	ascomycetes	99.258	0.0	539	974	0
+ASV_145	gi|190133939|gb|EU798714.1|	Eukaryota	uncultured eukaryote	eukaryotes	95.472	0.0	530	837	9
+ASV_146	gi|1855018891|gb|MT610929.1|	Eukaryota	Cirsium vulgare	eudicots	99.257	0.0	538	972	0
+ASV_147	gi|2086101667|gb|MZ923228.1|	Eukaryota	uncultured Cryptomycota	fungi	98.696	0.0	537	953	0
+ASV_148	gi|1878849209|gb|MT796545.1|	Eukaryota	Pinus contorta	seed plants	99.629	0.0	539	985	0
+ASV_149	gi|33309617|gb|AF411265.1|	Eukaryota	Allapsa vibrans	cercozoans	99.639	0.0	554	1013	0
+ASV_150	gi|293634469|gb|GU569667.1|	Eukaryota	Polytrichum strictum	mosses	99.630	0.0	540	987	0
+ASV_151	gi|1543010563|gb|MK335204.1|	Eukaryota	uncultured Glomeromycotina	fungi	90.123	0.0	567	712	28
+ASV_152	gi|219524877|gb|EU709240.1|	Eukaryota	Cercozoa sp. Panama49	cercozoans	95.430	0.0	547	870	2
+ASV_153	gi|1375517796|gb|MH174486.1|	Eukaryota	Mucoromycotina sp.	fungi	88.246	0.0	553	647	15
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	99.441	0.0	537	976	0
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	97.765	0.0	537	926	0
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	93.974	0.0	531	802	1
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.737	0.0	537	776	0
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.551	0.0	537	771	0
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.551	0.0	537	769	1
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.365	0.0	537	763	1
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	89.944	0.0	537	682	12
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	92.899	2.09e-134	338	492	0
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	89.458	4.66e-111	332	414	6
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	93.200	1.32e-96	250	366	1
+ASV_154	gi|1239725835|gb|CP023132.1|	Eukaryota	Lupinus angustifolius	eudicots	93.802	1.71e-95	242	363	1
+ASV_155	gi|1341128739|gb|MG920177.1|	Eukaryota	Cochlonema odontosperma	fungi	96.691	0.0	544	904	1
+ASV_156	gi|291419524|gb|GU561840.1|	Eukaryota	Capnodiales sp. CBS 101364	ascomycetes	99.814	0.0	539	990	0
+ASV_157	gi|219524877|gb|EU709240.1|	Eukaryota	Cercozoa sp. Panama49	cercozoans	95.612	0.0	547	876	2
+ASV_158	gi|388565111|gb|JN981029.1|	Eukaryota	Weberacantha beckeri	springtails	97.967	0.0	541	937	1
+ASV_159	gi|1846293039|gb|MT531253.1|	Eukaryota	uncultured eukaryote	eukaryotes	94.444	1.21e-161	378	582	0
+ASV_160	gi|1290271196|gb|MG605054.1|	Eukaryota	Dangeardia mamillata	chytrids	85.172	2.71e-153	553	555	14
+ASV_161	gi|291172890|gb|GU568148.1|	Eukaryota	uncultured fungus	fungi	97.774	0.0	539	929	0
+ASV_162	gi|1341128739|gb|MG920177.1|	Eukaryota	Cochlonema odontosperma	fungi	96.507	0.0	544	898	1
+ASV_163	gi|1730279169|gb|MN372433.1|	Eukaryota	Fortuynia churaumi	mites & ticks	85.938	2.44e-84	320	326	18
+ASV_164	gi|379046727|gb|JN982018.1|	Eukaryota	uncultured eukaryote	eukaryotes	93.866	0.0	538	806	6
+ASV_165	gi|54037596|gb|AY749544.1|	Eukaryota	uncultured eukaryote	eukaryotes	95.775	0.0	568	911	5
+ASV_166	gi|742523365|gb|KM870736.1|	Eukaryota	uncultured eukaryote	eukaryotes	86.679	3.32e-162	548	584	26
+ASV_167	gi|54037537|gb|AY749485.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.497	0.0	571	939	5
+ASV_168	gi|1783482319|gb|MN821072.1|	Eukaryota	Morellospora saccamoebae	fungi	99.065	0.0	535	957	3
+ASV_169	gi|54037596|gb|AY749544.1|	Eukaryota	uncultured eukaryote	eukaryotes	95.972	0.0	571	922	5
+ASV_170	gi|1110843315|gb|KY077728.1|	Eukaryota	uncultured Apusomonadidae	eukaryotes	99.627	0.0	536	979	0
+ASV_171	gi|1511361385|emb|LS997531.1|	Eukaryota	uncultured Ambispora	glomeromycetes	96.931	0.0	554	928	2
+ASV_172	gi|2086101667|gb|MZ923228.1|	Eukaryota	uncultured Cryptomycota	fungi	98.696	0.0	537	952	1
+ASV_173	gi|461489421|gb|JX144131.1|	Eukaryota	uncultured Glomus	glomeromycetes	95.495	0.0	555	883	4
+ASV_174	gi|1846293039|gb|MT531253.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.561	1.99e-174	378	625	1
+ASV_175	gi|374532660|dbj|AB695462.1|	Eukaryota	uncultured eukaryote	eukaryotes	99.439	0.0	535	972	0
+ASV_176	gi|1512459601|gb|MG921284.1|	Eukaryota	Tylencholaimus zhongshanensis	nematodes	98.507	0.0	536	946	0
+ASV_177	gi|1861748403|ref|NG_070109.1|	Eukaryota	Kalmusia italica	ascomycetes	99.072	0.0	539	966	2
+ASV_178	gi|1846293039|gb|MT531253.1|	Eukaryota	uncultured eukaryote	eukaryotes	93.651	4.37e-156	378	564	1
+ASV_179	gi|1654334529|gb|MK946246.1|	Eukaryota	uncultured soil eukaryote	eukaryotes	97.393	0.0	537	915	0
+ASV_180	gi|1845957821|gb|MT522645.1|	Eukaryota	Encentrum semiplicatum	rotifers	99.077	0.0	542	974	0
+ASV_181	gi|1845957821|gb|MT522645.1|	Eukaryota	Encentrum semiplicatum	rotifers	98.708	0.0	542	963	0
+ASV_182	gi|1799126738|gb|MN241883.1|	Eukaryota	Filieupodes sp. FP118	mites & ticks	99.632	0.0	544	994	0
+ASV_183	gi|222089851|gb|FJ592412.1|	Eukaryota	uncultured eukaryote	eukaryotes	97.778	0.0	540	931	0
+ASV_184	gi|219524878|gb|EU709241.1|	Eukaryota	uncultured Cercozoa	cercozoans	97.519	0.0	524	894	1
+ASV_185	gi|1846293039|gb|MT531253.1|	Eukaryota	uncultured eukaryote	eukaryotes	97.354	5.49e-180	378	643	0
+ASV_186	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	95.572	0.0	542	869	0
+ASV_187	gi|166083764|gb|EF024287.1|	Eukaryota	Cercomonadida environmental sample	cercozoans	92.139	0.0	547	771	1
+ASV_188	gi|1430413421|gb|MH629669.1|	Eukaryota	uncultured Glomus	glomeromycetes	99.083	0.0	545	979	0
+ASV_189	gi|1917866047|gb|MW139937.1|	Eukaryota	uncultured eukaryote	eukaryotes	96.270	0.0	563	917	8
+ASV_190	gi|54037540|gb|AY749488.1|	Eukaryota	uncultured eukaryote	eukaryotes	92.955	0.0	582	833	16
+ASV_191	gi|1845957807|gb|MT522631.1|	Eukaryota	Bryceella stylata	rotifers	95.387	0.0	542	861	1

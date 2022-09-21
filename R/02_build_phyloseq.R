@@ -13,7 +13,18 @@ library(readxl); packageVersion("readxl")
 meta <- readxl::read_xlsx("./data/metadata_amplicon_18s_its2.xlsx") %>% 
   clean_names()
 
-meta$sample_name <- meta$file_name_amf_18s_forward %>% str_split("_") %>% map_chr(1)
+# Clean metadata
+meta <- 
+meta %>% 
+  mutate(sample_id = file_name_amf_18s_forward %>% str_split("_") %>% map_chr(1),
+         weevil_treatment = case_when(weevil_nw_no_weevil_w_weevil_present == "NW" ~ "Absent",
+                                      weevil_nw_no_weevil_w_weevil_present == "W" ~ "Present"),
+         nitrogen = nitrogen_kg_n_ha_yr,
+         nitrogen_unit = "kg/ha/yr",
+         block = factor(block),
+         plot_number = factor(plot_number)) %>% 
+  select(site,plot_number,nitrogen,nitrogen_unit,block,sample_id,weevil_treatment)
+
 
 # IMPORT SEQTABLE ####
 seqtab <- readRDS("./output/18S_seq_table.RDS")
@@ -22,11 +33,8 @@ seqtab <- readRDS("./output/18S_seq_table.RDS")
 taxa <- readRDS("./output/18S_taxonomy.RDS")
 taxa2 <- readRDS("./output/18S_w_silva_taxonomy.RDS")
 
-row.names(meta) <- meta$sample_name
+row.names(meta) <- meta$sample_id
 
-colnames(seqtab) == row.names(taxa)
-row.names(otu)
-row.names(meta)
 
 # reorder otu table and metadata to match
 row.names(meta) <- meta$sample_id
@@ -45,7 +53,7 @@ tax2 <- tax_table(taxa2)
 met <- sample_data(meta)
 
 # fix metadata sample names
-sample_names(met) <- meta$sample_name
+sample_names(met) <- meta$sample_id
 
 # combine into phyloseq object ####
 ps <- phyloseq(otu,met,tax)
@@ -65,4 +73,3 @@ ps_silva <- subset_samples(ps_silva, sample_sums(ps_silva) > 0)
 # SAVE PS OBJECT
 saveRDS(ps,"output/partially_cleaned_ps_object.RDS")
 saveRDS(ps_silva,"output/partially_cleaned_ps_silva_object.RDS")
-beepr::beep(sound=8)
